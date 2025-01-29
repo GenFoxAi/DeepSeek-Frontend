@@ -19,7 +19,7 @@ const Footer = () => (
         <h4 className='font-bold md:text-[36px] text-[16px] text-[#64748b]'>
           The future needs you.
         </h4>
-        <a href='https://blockchainapp-4e293.web.app/' target='_blank'>
+        {/* <a href='https://blockchainapp-4e293.web.app/' target='_blank'>
           <button type="button" className='flex items-center h-fit py-1 px-2 bg-[#2561ab] rounded-[32px]'>
             <img 
               src='/play.png'
@@ -27,7 +27,7 @@ const Footer = () => (
               className='w-[120px] h-[48px] object-contain'
             />
           </button>
-        </a>
+        </a> */}
       </div>
       <div className='flex flex-col'>
         <div className='mb-[50px] h-[2px] bg-black opacity-10' />

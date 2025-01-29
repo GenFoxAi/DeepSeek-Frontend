@@ -13,7 +13,7 @@ const RootLayout = ({ children }) => (
       <meta property="og:image:height" content="125" />
       <meta property="og:description" 
     content=' "DeepSeek is a captivating and responsive cryptocurrency landing page built to introduce users to the innovative DeepSeek cryptocurrency. The project implements React.js, Next.js, and Tailwind CSS to create a dynamic and visually appealing interface that provides an engaging gateway for users to explore DeepSeek." ' />
-      <meta property="og:url" content="https://deep-seek.vercel.app" />
+      <meta property="og:url" content="https://www.deepseekcoin.us/" />
       <meta property="og:determiner" content="the" />
       <meta property="og:locale" content="ms_MY" />
       <meta property="og:locale:alternate" content="en_US" />

@@ -27,7 +27,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
       </div>
     ) : (
       <div className='absolute bottom-0 p-8 flex flex-col justify-center w-full bg-[rgba(0,0,0,0.5)] rounded-b-[24px]'>
-        <a href='https://blockchainapp-4e293.web.app/' target='_blank'>
+        {/* <a href='https://blockchainapp-4e293.web.app/' target='_blank'>
           <div className={`${styles.flexCenter} w-[120px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}>
             <img
               src='/play.png'
@@ -35,7 +35,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
               className='w-3/4 h-3/4 object-contain'
             />
           </div>
-        </a>
+        </a> */}
         <p className='font-bold text-[16px] leading-[20px] text-white uppercase text-center'>
           Say No More. Start Trading!
         </p>
