@@ -41,7 +41,7 @@ const Footer = () => (
             Copyright © 2025 DeepSeek. All rights reserved.
           </p>
           <div className='flex gap-4'>
-            {socials.map((social, index) => (
+            {/* {socials.map((social, index) => (
               <a href={social.website} target='_blank'>
                 <img 
                   key={social.name}
@@ -50,7 +50,7 @@ const Footer = () => (
                   className='w-[24px] h-[24px] object-contain cursor-pointer'
                 />
               </a>
-            ))}
+            ))} */}
           </div>
         </div>
       </div>
